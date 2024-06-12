@@ -1,57 +1,9 @@
-# Project Name
+# Python Django webapp call graph
 
-(short, 1-3 sentenced, description of the project)
+This sample has been archived and is no longer being maintained. You can find a more recent version of this sample [here](https://github.com/Azure-Samples/ms-identity-docs-code-python/tree/main/django-web-app)
 
-## Features
+For access to the project files, please visit the branch `main`.
 
-This project framework provides the following features:
+## Disclaimer
 
-* Feature 1
-* Feature 2
-* ...
-
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+The sample in this repository is no longer maintained and is kept for historical reasons. The sample in the main branch is not guaranteed to work with the latest versions of the libraries it depends on.
